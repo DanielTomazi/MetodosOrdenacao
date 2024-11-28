@@ -1,5 +1,6 @@
 # Métodos de Ordenação
 *********************
-Métodos de ordenação na linguagem C, trata-se de uma pequena e simples atividade da faculdade que deixarei salva aqui em meu GitHub. Código criado e executado no Replit em sala de aula. (O mesmo não possui maiores fins criativos ou qualquer coisa do gênero).
+Sorting methods in the C programming language. This is a small and simple assignment from university that I will save here on my GitHub. The code was created and executed on Replit during class. (It doesn't have any creative purposes or anything like that).
+***********
 
 
